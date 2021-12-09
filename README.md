@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![image](https://user-images.githubusercontent.com/78019549/145362995-bd2d8db5-f175-4712-b445-fd478bed4607.png)
 **sayantan135/sayantan135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
