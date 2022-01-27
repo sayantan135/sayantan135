@@ -3,9 +3,8 @@
 - 🔭 I’m currently working on Cryptocurrency Tracker
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Diversion 2022
-- 🤔 I’m looking for help with C programming
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: sayantanpal2002@yahoo.com 
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: addicted to black coffee
+- ⚡ Fun fact: 
 
