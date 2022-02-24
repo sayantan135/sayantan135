@@ -6,5 +6,5 @@
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: sayantanpal2002@yahoo.com 
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am the president of secret society.
 
