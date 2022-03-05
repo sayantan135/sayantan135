@@ -1,6 +1,6 @@
 ## Hola, I am Sayantan Pal 👋
 
-https://github-profile-trophy.vercel.app/?username=sayantan135&title=Followers
+![](https://komarev.com/ghpvc/?username=sayantan135)
 
 - 🔭 I’m currently working on Modern Cryptopunk Clone with React.js & Web 3.0
 - 🌱 I’m currently learning Javascript
