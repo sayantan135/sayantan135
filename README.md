@@ -14,6 +14,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135)](https://github.com/ryo-ma/github-profile-trophy)
   
-  
+<image src = 'https://profile-summary-for-github.com/user/sayantan135'>  
   
   
