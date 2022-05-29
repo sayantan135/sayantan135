@@ -14,8 +14,8 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan135)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135&theme=ads-juicy-fresh)](https://github.com/ryo-ma/github-profile-trophy)
   
 
-  
+
   
