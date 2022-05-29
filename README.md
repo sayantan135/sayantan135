@@ -17,5 +17,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135&theme=ads-juicy-fresh)](https://github.com/ryo-ma/github-profile-trophy)
   
 
-<image src = "https://pagespeed-insights.herokuapp.com?url=https://sayantan135.github.io">
+
   
