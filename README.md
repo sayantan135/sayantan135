@@ -12,7 +12,7 @@
 
 <image src = "https://github-readme-stats.vercel.app/api?username=sayantan135&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan135)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan135&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135&theme=ads-juicy-fresh)](https://github.com/ryo-ma/github-profile-trophy)
   
