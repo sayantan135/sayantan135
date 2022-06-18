@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sayantan135)
 
-- 🔭 I’m currently working on MERN stack
+- 🔭 I’m currently working 
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Diversion 2022
 - 💬 Ask me about any tech related stuff
