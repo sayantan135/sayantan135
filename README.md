@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=sayantan135)
 
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working Meta-based Project
+- 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on Diversion 2022
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: sayantanpal2002@yahoo.com 
