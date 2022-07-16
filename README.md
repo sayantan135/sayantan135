@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=sayantan135)
 
-- 🔭 I’m currently working Meta-based Project
-- 🌱 I’m currently learning Backend Development
-- 👯 I’m looking to collaborate on Diversion 2022
+- 🔭 I’m currently working Meta-Commerce based Project
+- 🌱 I’m currently learning Backend Development and Web3.
+- 👯 I’m looking to collaborate on hackathons.
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: sayantanpal2002@yahoo.com 
 - 😄 Pronouns: he/his
