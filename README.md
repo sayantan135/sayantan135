@@ -17,7 +17,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135&theme=ads-juicy-fresh)](https://github.com/ryo-ma/github-profile-trophy)
   
 ![snake gif](https://github.com/sayantan135/sayantan135/blob/output/github-contribution-grid-snake.gif)
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 
   
