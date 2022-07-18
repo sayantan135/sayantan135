@@ -1,4 +1,4 @@
-## Hola, I am Sayantan Pal 👋
+## Hi, I am Sayantan Pal 👋
 
 ![](https://komarev.com/ghpvc/?username=sayantan135)
 
