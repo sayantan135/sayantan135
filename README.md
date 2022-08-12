@@ -16,7 +16,7 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135&theme=ads-juicy-fresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sayantan135&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sayantan135&bg_color=000000&color=c0b5bf&line=5c558b&point=4c1dcd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 ![snake svg](https://github.com/sayantan135/sayantan135/blob/output/github-contribution-grid-snake.svg)
 
