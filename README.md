@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React Js.
 - 👯 I’m looking to collaborate on hackathons.
 - 💬 Ask me about any tech-related stuff
-- 📫 How to reach me: sayantanpal2002@yahoo.com 
+- 📫 How to reach me: sayantanpal2002@gmail.com 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Procrastination is my hobby. 
 
