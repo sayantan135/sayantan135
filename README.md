@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Web Development Projects. 
 - 🌱 I’m currently learning React Js.
 - 👯 I’m looking to collaborate on hackathons.
-- 💬 Ask me about any tech-related stuff
+- 💬 Ask me about any tech-related stuff & football⚽
 - 📫 How to reach me: sayantanpal2002@gmail.com 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Addicted to Procrastination. 
