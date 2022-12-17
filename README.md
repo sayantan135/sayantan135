@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sayantan135)
 
-- 🔭 I’m currently working on Web Development Projects.
+- 🔭 I’m currently working on Web Development Projects
 - 🌱 I’m currently learning React Js.
 - 👯 I’m looking to collaborate on hackathons.
 - 💬 Ask me about any tech-related stuff & football⚽.
