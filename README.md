@@ -8,7 +8,7 @@
 - 💬 Ask me about any tech-related stuff & football⚽.
 - 📫 How to reach me: sayantanpal2002@gmail.com.
 - 😄 Pronouns: he/his.
-- ⚡ Fun fact: Addicted to Procrastination
+- ⚡ Fun fact: Addicted to Procrastination.
 
 <image src = "https://github-readme-stats.vercel.app/api?username=sayantan135&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   
