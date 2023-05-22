@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=sayantan135)
 
 - 🔭 I’m currently working on Web Development Projects.
-- 🌱 I’m currently learning React Js and Express Js.
+- 🌱 I’m currently learning React Js.
 - 👯 I’m looking to collaborate on hackathons.
 - 💬 Ask me about any tech-related stuff & football⚽.
 - 📫 How to reach me: sayantanpal2002@gmail.com.
