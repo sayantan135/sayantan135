@@ -12,9 +12,7 @@
 
 ![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayantan135&show_icons=true&theme=dark)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan135&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan135&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan135&theme=dark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan135&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
