@@ -14,6 +14,8 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan135&theme=dark)](https://git.io/streak-stats)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan135&hide=php&theme=tokyonight
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Sayantan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayantan135&bg_color=0e1116&color=e3cfe0&line=39b337&point=124f29&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
