@@ -14,7 +14,7 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan135&theme=dark)](https://git.io/streak-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan135&hide=php&theme=tokyonight
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan135&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
