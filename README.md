@@ -9,10 +9,10 @@
 - 📫 How to reach me: sayantanpal2002@gmail.com.
 - 😄 Pronouns: he/his.
 - ⚡ Fun fact: Professional overthinker ⊙⁠﹏⁠⊙.
+ 
+![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayantan135&show_icons=true&theme=dark)
 
-![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayantan135&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan135&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan135&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantan135&theme=dark)](https://git.io/streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
