@@ -21,8 +21,19 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
  <hr/>
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,firebase,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+</div>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
  
 ![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayantan135&show_icons=true&theme=dark)
 
