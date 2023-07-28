@@ -56,11 +56,13 @@
 
 [![Sayantan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayantan135&bg_color=0e1116&color=e3cfe0&line=39b337&point=124f29&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
+ ![Alt text](./github-contribution-grid-snake.svg)
+<img src="./github-contribution-grid-snake.svg">
+
 
  <br/><br/><br/>
 </div>
