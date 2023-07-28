@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=sayantan135)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=900&size=29&pause=1000&center=true&width=435&lines=Hi%2C+I+am+Sayantan+Pal)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=29&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I+am+Sayantan+Pal)](https://git.io/typing-svg)
+<br/>
 
 - 🔭 I’m currently working on Web Development Projects.
 - 🌱 I’m currently learning React Js.
