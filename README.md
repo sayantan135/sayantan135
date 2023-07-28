@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=sayantan135)
 
-<h1 align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+I+am+Sayantan+Pal+%F0%9F%91%8B)](https://git.io/typing-svg)
-</h1>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=900&size=29&pause=1000&center=true&width=435&lines=Hi%2C+I+am+Sayantan+Pal)](https://git.io/typing-svg)
+
+
 - 🔭 I’m currently working on Web Development Projects.
 - 🌱 I’m currently learning React Js.
 - 👯 I’m looking to collaborate on hackathons.
@@ -12,7 +11,7 @@
 - 📫 How to reach me: sayantanpal2002@gmail.com.
 - 😄 Pronouns: he/his.
 - ⚡ Fun fact: Professional overthinker ⊙⁠﹏⁠⊙.
- </div>
+
  
 <div align="center"> 
   <a href="mailto:sayantanpal2002@gmail.com">
