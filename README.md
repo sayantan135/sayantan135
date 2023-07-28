@@ -60,7 +60,7 @@
   <img alt="github-snake" src="github-contribution-grid-snake-dark.svg" />
 
  ![Alt text](./output/github-contribution-grid-snake.svg)
-<img src="./output/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/sayantan135/sayantan135/blob/output/github-contribution-grid-snake-dark.svg">
 
 
  <br/><br/><br/>
