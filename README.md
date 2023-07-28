@@ -41,9 +41,9 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sayantan135&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sayantan135&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
+  <br/>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <br/><br/>
@@ -64,7 +64,5 @@
 <h3 align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=200&size=29&pause=1000&color=FFFFFF&center=true&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;Message+me+on+LinkedIn+%F0%9F%98%8A;Always+open+to+Collab++%F0%9F%A4%9D)](https://git.io/typing-svg)
-
 </h3>
-
 <br/>
