@@ -64,3 +64,11 @@
 </div>
 
 <hr/>
+
+<h3 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=200&size=29&pause=1000&color=FFFFFF&center=true&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;Message+me+on+LinkedIn+%F0%9F%98%8A;Always+open+to+Collab++%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+</h3>
+
+<br/>
