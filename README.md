@@ -52,8 +52,15 @@
 
 <br/><br/>
 <hr/>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
 
 [![Sayantan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayantan135&bg_color=0e1116&color=e3cfe0&line=39b337&point=124f29&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 ![snake svg](https://github.com/sayantan135/sayantan135/blob/output/github-contribution-grid-snake.svg)
+
+ <br/><br/><br/>
+</div>
+
+<hr/>
