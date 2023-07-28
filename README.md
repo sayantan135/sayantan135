@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=127C8A&width=435&lines=Hi%2C+I+am+Sayantan+Pal)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=sayantan135)
 
 - 🔭 I’m currently working on Web Development Projects.
