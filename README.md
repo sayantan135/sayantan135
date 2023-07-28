@@ -42,9 +42,10 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sayantan135&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 <br/>
- - GitHub Trophies 🏆
+<br/>
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=sayantan135&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+  - GitHub Trophies 🏆
 </div>
 
 <br/><br/>
