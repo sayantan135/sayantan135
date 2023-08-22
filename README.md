@@ -42,7 +42,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sayantan135&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-[![Sayantan135's GitHub | Stats](https://stats.quine.sh/Sayantan135/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sayantan135)
 <br/>
 <br/>
  
